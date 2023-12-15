@@ -17,7 +17,7 @@ git clone https://github.com/DhruvAthaide/HateSpeechDetection.git
 
 Once, you have installed the Repository then you can cd into the directory and pip install the requirements needed to run the tool:
 ```bash
-cd Facebook-Messaging-Automation
+cd HateSpeechDetection
 ```
 
 ```bash
